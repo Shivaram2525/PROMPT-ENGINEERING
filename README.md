@@ -6,6 +6,10 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
+```
+Name         : Shivaram M.
+Register No. : 212223040195
+```
 # Algorithm:
 ## Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
